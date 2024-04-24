@@ -2,7 +2,7 @@
 <p>Este é um simples aplicativo de console em Java para converter entre diferentes moedas. Ele utiliza a API da ExchangeRate-API para obter as taxas de câmbio em tempo real.</p>
 
 <h2>Funcionalidades</h2>
-- Conversão entre Dólar (USD), Peso Argentino (ARS), Real (BRL) e Peso Colombiano (COP).
+<p>- Conversão entre Dólar (USD), Peso Argentino (ARS), Real (BRL) e Peso Colombiano (COP).</p>
 - Menu interativo para seleção da moeda de origem e destino.
 - Exibição do valor convertido.
 <h2>Requisitos</h2>
